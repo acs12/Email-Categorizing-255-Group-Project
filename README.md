@@ -76,4 +76,5 @@
     - After setting the directories run the python notebook.
     
     **Note** : We have uploaded a pickle file for a trained model for an employee with test data.
+    
     **Note** : employee_predicted_results.zip are the predicted results for email categorization for each employee's personalized folder
